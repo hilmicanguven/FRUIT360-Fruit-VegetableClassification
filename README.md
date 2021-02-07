@@ -47,5 +47,5 @@ In this project, we want to classify given images according to 131 different cla
 ## Experiment Results
 result of the experiments as shown below. Notice that, there are hyper-parameters (epoch and batch size, optimizer, loss function etc) that should be considered
 
-![res1](accuracy-graph.png) 
-![res2](loss-graph.png)
+![res1](acc1.png) 
+![res2](loss1.png)
