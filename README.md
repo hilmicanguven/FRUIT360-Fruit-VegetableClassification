@@ -1,5 +1,5 @@
 # FRUIT360-Fruit-VegetableClassification
-Classification of Fruits and Vegetables using CCN (Fruit 360 Dataset)
+Classification of Fruits and Vegetables using Convolutional Neural Networks (CNN) (Fruit 360 Dataset)
 In this project, we want to classify given images according to 131 different classes using Convolutional Neural Networks. Steps are as follows:
 
  1. Data pre-process
